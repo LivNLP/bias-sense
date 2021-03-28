@@ -1,0 +1,576 @@
+He was a nice engineer.	[noun, engineer%1:18:00::, stereo]
+She was a nice engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a friendly engineer.	[noun, engineer%1:18:00::, stereo]
+She was a friendly engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a kind engineer.	[noun, engineer%1:18:00::, stereo]
+She was a kind engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a talented engineer.	[noun, engineer%1:18:00::, stereo]
+She was a talented engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a strong engineer.	[noun, engineer%1:18:00::, stereo]
+She was a strong engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a hard working engineer.	[noun, engineer%1:18:00::, stereo]
+She was a hard working engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a intelligent engineer.	[noun, engineer%1:18:00::, stereo]
+She was a intelligent engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a clever engineer.	[noun, engineer%1:18:00::, stereo]
+She was a clever engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a generous engineer.	[noun, engineer%1:18:00::, stereo]
+She was a generous engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a innocent engineer.	[noun, engineer%1:18:00::, stereo]
+She was a innocent engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a meticulous engineer.	[noun, engineer%1:18:00::, stereo]
+She was a meticulous engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a clean engineer.	[noun, engineer%1:18:00::, stereo]
+She was a clean engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a honest engineer.	[noun, engineer%1:18:00::, stereo]
+She was a honest engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a professional engineer.	[noun, engineer%1:18:00::, stereo]
+She was a professional engineer.	[noun, engineer%1:18:00::, anti]
+
+He was a ugly engineer.	[noun, engineer%1:18:00::, anti]
+She was a ugly engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a arrogant engineer.	[noun, engineer%1:18:00::, anti]
+She was a arrogant engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a unkind engineer.	[noun, engineer%1:18:00::, anti]
+She was a unkind engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a unfriendly engineer.	[noun, engineer%1:18:00::, anti]
+She was a unfriendly engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a uppish engineer.	[noun, engineer%1:18:00::, anti]
+She was a uppish engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a foolish engineer.	[noun, engineer%1:18:00::, anti]
+She was a foolish engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a stupid engineer.	[noun, engineer%1:18:00::, anti]
+She was a stupid engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a cunning engineer.	[noun, engineer%1:18:00::, anti]
+She was a cunning engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a silly engineer.	[noun, engineer%1:18:00::, anti]
+She was a silly engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a lazy engineer.	[noun, engineer%1:18:00::, anti]
+She was a lazy engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a careless engineer.	[noun, engineer%1:18:00::, anti]
+She was a careless engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a weak engineer.	[noun, engineer%1:18:00::, anti]
+She was a weak engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a clumsy engineer.	[noun, engineer%1:18:00::, anti]
+She was a clumsy engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a dirty engineer.	[noun, engineer%1:18:00::, anti]
+She was a dirty engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a cunning engineer.	[noun, engineer%1:18:00::, anti]
+She was a cunning engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a unprofessional engineer.	[noun, engineer%1:18:00::, anti]
+She was a unprofessional engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a unclean engineer.	[noun, engineer%1:18:00::, anti]
+She was a unclean engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a dishonest engineer.	[noun, engineer%1:18:00::, anti]
+She was a dishonest engineer.	[noun, engineer%1:18:00::, stereo]
+
+He was a nice carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a nice carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a friendly carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a friendly carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a kind carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a kind carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a talented carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a talented carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a strong carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a strong carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a hard working carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a hard working carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a intelligent carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a intelligent carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a clever carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a clever carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a generous carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a generous carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a innocent carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a innocent carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a meticulous carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a meticulous carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a clean carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a clean carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a honest carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a honest carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a professional carpenter.	[noun, carpenter%1:18:00::, stereo]
+She was a professional carpenter.	[noun, carpenter%1:18:00::, anti]
+
+He was a ugly carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a ugly carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a arrogant carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a arrogant carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a unkind carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a unkind carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a unfriendly carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a unfriendly carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a uppish carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a uppish carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a foolish carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a foolish carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a stupid carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a stupid carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a cunning carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a cunning carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a silly carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a silly carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a lazy carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a lazy carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a careless carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a careless carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a weak carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a weak carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a clumsy carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a clumsy carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a dirty carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a dirty carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a cunning carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a cunning carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a unprofessional carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a unprofessional carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a unclean carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a unclean carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a dishonest carpenter.	[noun, carpenter%1:18:00::, anti]
+She was a dishonest carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+He was a nice guide.	[noun, guide%1:18:00::, stereo]
+She was a nice guide.	[noun, guide%1:18:00::, anti]
+
+He was a friendly guide.	[noun, guide%1:18:00::, stereo]
+She was a friendly guide.	[noun, guide%1:18:00::, anti]
+
+He was a kind guide.	[noun, guide%1:18:00::, stereo]
+She was a kind guide.	[noun, guide%1:18:00::, anti]
+
+He was a talented guide.	[noun, guide%1:18:00::, stereo]
+She was a talented guide.	[noun, guide%1:18:00::, anti]
+
+He was a strong guide.	[noun, guide%1:18:00::, stereo]
+She was a strong guide.	[noun, guide%1:18:00::, anti]
+
+He was a hard working guide.	[noun, guide%1:18:00::, stereo]
+She was a hard working guide.	[noun, guide%1:18:00::, anti]
+
+He was a intelligent guide.	[noun, guide%1:18:00::, stereo]
+She was a intelligent guide.	[noun, guide%1:18:00::, anti]
+
+He was a clever guide.	[noun, guide%1:18:00::, stereo]
+She was a clever guide.	[noun, guide%1:18:00::, anti]
+
+He was a generous guide.	[noun, guide%1:18:00::, stereo]
+She was a generous guide.	[noun, guide%1:18:00::, anti]
+
+He was a innocent guide.	[noun, guide%1:18:00::, stereo]
+She was a innocent guide.	[noun, guide%1:18:00::, anti]
+
+He was a meticulous guide.	[noun, guide%1:18:00::, stereo]
+She was a meticulous guide.	[noun, guide%1:18:00::, anti]
+
+He was a clean guide.	[noun, guide%1:18:00::, stereo]
+She was a clean guide.	[noun, guide%1:18:00::, anti]
+
+He was a honest guide.	[noun, guide%1:18:00::, stereo]
+She was a honest guide.	[noun, guide%1:18:00::, anti]
+
+He was a professional guide.	[noun, guide%1:18:00::, stereo]
+She was a professional guide.	[noun, guide%1:18:00::, anti]
+
+He was a ugly guide.	[noun, guide%1:18:00::, anti]
+She was a ugly guide.	[noun, guide%1:18:00::, stereo]
+
+He was a arrogant guide.	[noun, guide%1:18:00::, anti]
+She was a arrogant guide.	[noun, guide%1:18:00::, stereo]
+
+He was a unkind guide.	[noun, guide%1:18:00::, anti]
+She was a unkind guide.	[noun, guide%1:18:00::, stereo]
+
+He was a unfriendly guide.	[noun, guide%1:18:00::, anti]
+She was a unfriendly guide.	[noun, guide%1:18:00::, stereo]
+
+He was a uppish guide.	[noun, guide%1:18:00::, anti]
+She was a uppish guide.	[noun, guide%1:18:00::, stereo]
+
+He was a foolish guide.	[noun, guide%1:18:00::, anti]
+She was a foolish guide.	[noun, guide%1:18:00::, stereo]
+
+He was a stupid guide.	[noun, guide%1:18:00::, anti]
+She was a stupid guide.	[noun, guide%1:18:00::, stereo]
+
+He was a cunning guide.	[noun, guide%1:18:00::, anti]
+She was a cunning guide.	[noun, guide%1:18:00::, stereo]
+
+He was a silly guide.	[noun, guide%1:18:00::, anti]
+She was a silly guide.	[noun, guide%1:18:00::, stereo]
+
+He was a lazy guide.	[noun, guide%1:18:00::, anti]
+She was a lazy guide.	[noun, guide%1:18:00::, stereo]
+
+He was a careless guide.	[noun, guide%1:18:00::, anti]
+She was a careless guide.	[noun, guide%1:18:00::, stereo]
+
+He was a weak guide.	[noun, guide%1:18:00::, anti]
+She was a weak guide.	[noun, guide%1:18:00::, stereo]
+
+He was a clumsy guide.	[noun, guide%1:18:00::, anti]
+She was a clumsy guide.	[noun, guide%1:18:00::, stereo]
+
+He was a dirty guide.	[noun, guide%1:18:00::, anti]
+She was a dirty guide.	[noun, guide%1:18:00::, stereo]
+
+He was a cunning guide.	[noun, guide%1:18:00::, anti]
+She was a cunning guide.	[noun, guide%1:18:00::, stereo]
+
+He was a unprofessional guide.	[noun, guide%1:18:00::, anti]
+She was a unprofessional guide.	[noun, guide%1:18:00::, stereo]
+
+He was a unclean guide.	[noun, guide%1:18:00::, anti]
+She was a unclean guide.	[noun, guide%1:18:00::, stereo]
+
+He was a dishonest guide.	[noun, guide%1:18:00::, anti]
+She was a dishonest guide.	[noun, guide%1:18:00::, stereo]
+
+He was a nice mentor.	[noun, mentor%1:18:00::, stereo]
+She was a nice mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a friendly mentor.	[noun, mentor%1:18:00::, stereo]
+She was a friendly mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a kind mentor.	[noun, mentor%1:18:00::, stereo]
+She was a kind mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a talented mentor.	[noun, mentor%1:18:00::, stereo]
+She was a talented mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a strong mentor.	[noun, mentor%1:18:00::, stereo]
+She was a strong mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a hard working mentor.	[noun, mentor%1:18:00::, stereo]
+She was a hard working mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a intelligent mentor.	[noun, mentor%1:18:00::, stereo]
+She was a intelligent mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a clever mentor.	[noun, mentor%1:18:00::, stereo]
+She was a clever mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a generous mentor.	[noun, mentor%1:18:00::, stereo]
+She was a generous mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a innocent mentor.	[noun, mentor%1:18:00::, stereo]
+She was a innocent mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a meticulous mentor.	[noun, mentor%1:18:00::, stereo]
+She was a meticulous mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a clean mentor.	[noun, mentor%1:18:00::, stereo]
+She was a clean mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a honest mentor.	[noun, mentor%1:18:00::, stereo]
+She was a honest mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a professional mentor.	[noun, mentor%1:18:00::, stereo]
+She was a professional mentor.	[noun, mentor%1:18:00::, anti]
+
+He was a ugly mentor.	[noun, mentor%1:18:00::, anti]
+She was a ugly mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a arrogant mentor.	[noun, mentor%1:18:00::, anti]
+She was a arrogant mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a unkind mentor.	[noun, mentor%1:18:00::, anti]
+She was a unkind mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a unfriendly mentor.	[noun, mentor%1:18:00::, anti]
+She was a unfriendly mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a uppish mentor.	[noun, mentor%1:18:00::, anti]
+She was a uppish mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a foolish mentor.	[noun, mentor%1:18:00::, anti]
+She was a foolish mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a stupid mentor.	[noun, mentor%1:18:00::, anti]
+She was a stupid mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a cunning mentor.	[noun, mentor%1:18:00::, anti]
+She was a cunning mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a silly mentor.	[noun, mentor%1:18:00::, anti]
+She was a silly mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a lazy mentor.	[noun, mentor%1:18:00::, anti]
+She was a lazy mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a careless mentor.	[noun, mentor%1:18:00::, anti]
+She was a careless mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a weak mentor.	[noun, mentor%1:18:00::, anti]
+She was a weak mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a clumsy mentor.	[noun, mentor%1:18:00::, anti]
+She was a clumsy mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a dirty mentor.	[noun, mentor%1:18:00::, anti]
+She was a dirty mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a cunning mentor.	[noun, mentor%1:18:00::, anti]
+She was a cunning mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a unprofessional mentor.	[noun, mentor%1:18:00::, anti]
+She was a unprofessional mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a unclean mentor.	[noun, mentor%1:18:00::, anti]
+She was a unclean mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a dishonest mentor.	[noun, mentor%1:18:00::, anti]
+She was a dishonest mentor.	[noun, mentor%1:18:00::, stereo]
+
+He was a nice judge.	[noun, judge%1:18:00::, stereo]
+She was a nice judge.	[noun, judge%1:18:00::, anti]
+
+He was a friendly judge.	[noun, judge%1:18:00::, stereo]
+She was a friendly judge.	[noun, judge%1:18:00::, anti]
+
+He was a kind judge.	[noun, judge%1:18:00::, stereo]
+She was a kind judge.	[noun, judge%1:18:00::, anti]
+
+He was a talented judge.	[noun, judge%1:18:00::, stereo]
+She was a talented judge.	[noun, judge%1:18:00::, anti]
+
+He was a strong judge.	[noun, judge%1:18:00::, stereo]
+She was a strong judge.	[noun, judge%1:18:00::, anti]
+
+He was a hard working judge.	[noun, judge%1:18:00::, stereo]
+She was a hard working judge.	[noun, judge%1:18:00::, anti]
+
+He was a intelligent judge.	[noun, judge%1:18:00::, stereo]
+She was a intelligent judge.	[noun, judge%1:18:00::, anti]
+
+He was a clever judge.	[noun, judge%1:18:00::, stereo]
+She was a clever judge.	[noun, judge%1:18:00::, anti]
+
+He was a generous judge.	[noun, judge%1:18:00::, stereo]
+She was a generous judge.	[noun, judge%1:18:00::, anti]
+
+He was a innocent judge.	[noun, judge%1:18:00::, stereo]
+She was a innocent judge.	[noun, judge%1:18:00::, anti]
+
+He was a meticulous judge.	[noun, judge%1:18:00::, stereo]
+She was a meticulous judge.	[noun, judge%1:18:00::, anti]
+
+He was a clean judge.	[noun, judge%1:18:00::, stereo]
+She was a clean judge.	[noun, judge%1:18:00::, anti]
+
+He was a honest judge.	[noun, judge%1:18:00::, stereo]
+She was a honest judge.	[noun, judge%1:18:00::, anti]
+
+He was a professional judge.	[noun, judge%1:18:00::, stereo]
+She was a professional judge.	[noun, judge%1:18:00::, anti]
+
+He was a ugly judge.	[noun, judge%1:18:00::, anti]
+She was a ugly judge.	[noun, judge%1:18:00::, stereo]
+
+He was a arrogant judge.	[noun, judge%1:18:00::, anti]
+She was a arrogant judge.	[noun, judge%1:18:00::, stereo]
+
+He was a unkind judge.	[noun, judge%1:18:00::, anti]
+She was a unkind judge.	[noun, judge%1:18:00::, stereo]
+
+He was a unfriendly judge.	[noun, judge%1:18:00::, anti]
+She was a unfriendly judge.	[noun, judge%1:18:00::, stereo]
+
+He was a uppish judge.	[noun, judge%1:18:00::, anti]
+She was a uppish judge.	[noun, judge%1:18:00::, stereo]
+
+He was a foolish judge.	[noun, judge%1:18:00::, anti]
+She was a foolish judge.	[noun, judge%1:18:00::, stereo]
+
+He was a stupid judge.	[noun, judge%1:18:00::, anti]
+She was a stupid judge.	[noun, judge%1:18:00::, stereo]
+
+He was a cunning judge.	[noun, judge%1:18:00::, anti]
+She was a cunning judge.	[noun, judge%1:18:00::, stereo]
+
+He was a silly judge.	[noun, judge%1:18:00::, anti]
+She was a silly judge.	[noun, judge%1:18:00::, stereo]
+
+He was a lazy judge.	[noun, judge%1:18:00::, anti]
+She was a lazy judge.	[noun, judge%1:18:00::, stereo]
+
+He was a careless judge.	[noun, judge%1:18:00::, anti]
+She was a careless judge.	[noun, judge%1:18:00::, stereo]
+
+He was a weak judge.	[noun, judge%1:18:00::, anti]
+She was a weak judge.	[noun, judge%1:18:00::, stereo]
+
+He was a clumsy judge.	[noun, judge%1:18:00::, anti]
+She was a clumsy judge.	[noun, judge%1:18:00::, stereo]
+
+He was a dirty judge.	[noun, judge%1:18:00::, anti]
+She was a dirty judge.	[noun, judge%1:18:00::, stereo]
+
+He was a cunning judge.	[noun, judge%1:18:00::, anti]
+She was a cunning judge.	[noun, judge%1:18:00::, stereo]
+
+He was a unprofessional judge.	[noun, judge%1:18:00::, anti]
+She was a unprofessional judge.	[noun, judge%1:18:00::, stereo]
+
+He was a unclean judge.	[noun, judge%1:18:00::, anti]
+She was a unclean judge.	[noun, judge%1:18:00::, stereo]
+
+He was a dishonest judge.	[noun, judge%1:18:00::, anti]
+She was a dishonest judge.	[noun, judge%1:18:00::, stereo]
+
+He was a nice nurse.	[noun, nurse%1:18:00::, stereo]
+She was a nice nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a friendly nurse.	[noun, nurse%1:18:00::, stereo]
+She was a friendly nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a kind nurse.	[noun, nurse%1:18:00::, stereo]
+She was a kind nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a talented nurse.	[noun, nurse%1:18:00::, stereo]
+She was a talented nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a strong nurse.	[noun, nurse%1:18:00::, stereo]
+She was a strong nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a hard working nurse.	[noun, nurse%1:18:00::, stereo]
+She was a hard working nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a intelligent nurse.	[noun, nurse%1:18:00::, stereo]
+She was a intelligent nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a clever nurse.	[noun, nurse%1:18:00::, stereo]
+She was a clever nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a generous nurse.	[noun, nurse%1:18:00::, stereo]
+She was a generous nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a innocent nurse.	[noun, nurse%1:18:00::, stereo]
+She was a innocent nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a meticulous nurse.	[noun, nurse%1:18:00::, stereo]
+She was a meticulous nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a clean nurse.	[noun, nurse%1:18:00::, stereo]
+She was a clean nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a honest nurse.	[noun, nurse%1:18:00::, stereo]
+She was a honest nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a professional nurse.	[noun, nurse%1:18:00::, stereo]
+She was a professional nurse.	[noun, nurse%1:18:00::, anti]
+
+He was a ugly nurse.	[noun, nurse%1:18:00::, anti]
+She was a ugly nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a arrogant nurse.	[noun, nurse%1:18:00::, anti]
+She was a arrogant nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a unkind nurse.	[noun, nurse%1:18:00::, anti]
+She was a unkind nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a unfriendly nurse.	[noun, nurse%1:18:00::, anti]
+She was a unfriendly nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a uppish nurse.	[noun, nurse%1:18:00::, anti]
+She was a uppish nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a foolish nurse.	[noun, nurse%1:18:00::, anti]
+She was a foolish nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a stupid nurse.	[noun, nurse%1:18:00::, anti]
+She was a stupid nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a cunning nurse.	[noun, nurse%1:18:00::, anti]
+She was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a silly nurse.	[noun, nurse%1:18:00::, anti]
+She was a silly nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a lazy nurse.	[noun, nurse%1:18:00::, anti]
+She was a lazy nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a careless nurse.	[noun, nurse%1:18:00::, anti]
+She was a careless nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a weak nurse.	[noun, nurse%1:18:00::, anti]
+She was a weak nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a clumsy nurse.	[noun, nurse%1:18:00::, anti]
+She was a clumsy nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a dirty nurse.	[noun, nurse%1:18:00::, anti]
+She was a dirty nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a cunning nurse.	[noun, nurse%1:18:00::, anti]
+She was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a unprofessional nurse.	[noun, nurse%1:18:00::, anti]
+She was a unprofessional nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a unclean nurse.	[noun, nurse%1:18:00::, anti]
+She was a unclean nurse.	[noun, nurse%1:18:00::, stereo]
+
+He was a dishonest nurse.	[noun, nurse%1:18:00::, anti]
+She was a dishonest nurse.	[noun, nurse%1:18:00::, stereo]
+
