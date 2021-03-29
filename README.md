@@ -7,6 +7,7 @@ Several bias evaluation scores have been proposed in prior work that use likelih
 This dataset contains the following three bias types.
 
 ## Nationality vs. Language Bias
+[Data file](https://github.com/Bollegala/bias-sense/blob/main/black-ethnicity-vs-colour.txt)
 This is the bias related to a nationality, which can also denote a language.
 The two senses are distinct and the following example shows how they can be biased.
 
