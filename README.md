@@ -8,6 +8,7 @@ This dataset contains the following three bias types.
 
 ## Nationality vs. Language Bias
 [Data file](https://github.com/Bollegala/bias-sense/blob/main/black-ethnicity-vs-colour.txt)
+
 This is the bias related to a nationality, which can also denote a language.
 The two senses are distinct and the following example shows how they can be biased.
 
@@ -37,6 +38,8 @@ Note: You could drop the modifiers *people* and *language* in these examples and
 
 
 ## Ethnicity vs. Colour
+[Data File](https://github.com/Bollegala/bias-sense/blob/main/black-ethnicity-vs-colour.txt)
+
 The word ``black`` can be used to repersent the ethnicity (*black people*) or the colour. We create examples that distinguish these two senses of ``black`` as in the following example.
 
 ``Black people are friendly``
