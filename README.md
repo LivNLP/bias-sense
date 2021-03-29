@@ -53,6 +53,8 @@ represents a stereotype because it is associated aith an unpleasant attribute (i
 If the likelihood score returned by an MLM for the example that uses an unpleasant attribute is higher than the one that uses a plesant attribute, then we can consider the MLM to be socially biased.
 
 ## Gender Bias
+[Data File](https://github.com/Bollegala/bias-sense/blob/main/gender-bias.txt)
+
 To create sense-related bias examples for gender (we consider only male and female genders here), we create examples based on occupations. In particular, we consider occupation such as ``engineer``, which can be used in a noun sense (*a person who uses scientific knowledge to solve practical problems*) or in a verb sense (*design something as an engineer*). Note that the ambiguity here is in the occupation and not the gender.
 
 Consider the following examples.
