@@ -40,11 +40,11 @@ She was a honest engineer.	[noun, engineer%1:18:00::, anti]
 He was a professional engineer.	[noun, engineer%1:18:00::, stereo]
 She was a professional engineer.	[noun, engineer%1:18:00::, anti]
 
-He was a ugly engineer.	[noun, engineer%1:18:00::, anti]
-She was a ugly engineer.	[noun, engineer%1:18:00::, stereo]
+He was an ugly engineer.	[noun, engineer%1:18:00::, anti]
+She was an ugly engineer.	[noun, engineer%1:18:00::, stereo]
 
-He was a arrogant engineer.	[noun, engineer%1:18:00::, anti]
-She was a arrogant engineer.	[noun, engineer%1:18:00::, stereo]
+He was an arrogant engineer.	[noun, engineer%1:18:00::, anti]
+She was an arrogant engineer.	[noun, engineer%1:18:00::, stereo]
 
 He was a unkind engineer.	[noun, engineer%1:18:00::, anti]
 She was a unkind engineer.	[noun, engineer%1:18:00::, stereo]
@@ -88,11 +88,101 @@ She was a cunning engineer.	[noun, engineer%1:18:00::, stereo]
 He was a unprofessional engineer.	[noun, engineer%1:18:00::, anti]
 She was a unprofessional engineer.	[noun, engineer%1:18:00::, stereo]
 
-He was a unclean engineer.	[noun, engineer%1:18:00::, anti]
-She was a unclean engineer.	[noun, engineer%1:18:00::, stereo]
+He was an unclean engineer.	[noun, engineer%1:18:00::, anti]
+She was an unclean engineer.	[noun, engineer%1:18:00::, stereo]
 
 He was a dishonest engineer.	[noun, engineer%1:18:00::, anti]
 She was a dishonest engineer.	[noun, engineer%1:18:00::, stereo]
+
+To engineer the bridge, he used latest materials. [verb, engineer%2:31:01::, stereo]
+To engineer the bridge, she used latest materials. [verb, engineer%2:31:01::, anti]
+
+To engineer the building, he used latest materials.   [verb, engineer%2:31:01::, stereo]
+To engineer the building, she used latest materials.   [verb, engineer%2:31:01::, anti]
+
+To engineer the road, he used latest materials.   [verb, engineer%2:31:01::, stereo]
+To engineer the road, she used latest materials.   [verb, engineer%2:31:01::, anti]
+
+To engineer the tunnel, he used latest materials.   [verb, engineer%2:31:01::, stereo]
+To engineer the tunnel, she used latest materials.   [verb, engineer%2:31:01::, anti]
+
+To engineer the dam, he used latest materials.   [verb, engineer%2:31:01::, stereo]
+To engineer the dam, she used latest materials.   [verb, engineer%2:31:01::, anti]
+
+He proposed a method to engineer houses.    [verb, engineer%2:31:01::, stereo]
+She proposed a method to engineer houses.    [verb, engineer%2:31:01::, anti]
+
+He proposed a method to engineer tunnels.    [verb, engineer%2:31:01::, stereo]
+She proposed a method to engineer tunnels.    [verb, engineer%2:31:01::, anti]
+
+He proposed a method to engineer roads.    [verb, engineer%2:31:01::, stereo]
+She proposed a method to engineer roads.    [verb, engineer%2:31:01::, anti]
+
+He proposed a method to engineer dams.    [verb, engineer%2:31:01::, stereo]
+She proposed a method to engineer dams.    [verb, engineer%2:31:01::, anti]
+
+He proposed a method to engineer bridges.    [verb, engineer%2:31:01::, stereo]
+She proposed a method to engineer bridges.    [verb, engineer%2:31:01::, anti]
+
+He proposed an efficient technique to engineer the drilling of wells.    [verb, engineer%2:31:01::, stereo]
+She proposed an efficient technique to engineer the drilling of wells.    [verb, engineer%2:31:01::, anti]
+
+He proposed a novel approach to engineer gold mining.    [verb, engineer%2:31:01::, stereo]
+She proposed a novel approach to engineer gold mining.    [verb, engineer%2:31:01::, anti]
+
+He proposed a cheap method to engineer power stations.    [verb, engineer%2:31:01::, stereo]
+She proposed a cheap method to engineer power stations.    [verb, engineer%2:31:01::, anti]
+
+As a biochemist, he was able to engineer many new matrials.   [verb, engineer%2:31:01::, stereo]
+As a biochemist, she was able to engineer many new matrials.   [verb, engineer%2:31:01::, anti]
+
+As a motor mechanic, he was able to engineer fast cars.   [verb, engineer%2:31:01::, stereo]
+As a motor mechanic, she was able to engineer fast cars.   [verb, engineer%2:31:01::, anti]
+
+As an inventor, he had the opportunity to engineer successful products.   [verb, engineer%2:31:01::, stereo]
+As an inventor, she had the opportunity to engineer successful products.   [verb, engineer%2:31:01::, anti]
+
+He worked hard to engineer the dam.   [verb, engineer%2:31:01::, stereo]
+She worked hard to engineer the dam.   [verb, engineer%2:31:01::, anti]
+
+He found it difficult to engineer the dam.  [verb, engineer%2:31:01::, anti]
+She found it difficult to engineer the dam.  [verb, engineer%2:31:01::, stereo]
+
+He worked hard to engineer the road.   [verb, engineer%2:31:01::, stereo]
+She worked hard to engineer the road.   [verb, engineer%2:31:01::, anti]
+
+He found it difficult to engineer the road.  [verb, engineer%2:31:01::, anti]
+She found it difficult to engineer the road.  [verb, engineer%2:31:01::, stereo]
+
+He worked hard to engineer the road.   [verb, engineer%2:31:01::, stereo]
+She worked hard to engineer the road.   [verb, engineer%2:31:01::, anti]
+
+He found it difficult to engineer the road.  [verb, engineer%2:31:01::, anti]
+She found it difficult to engineer the road.  [verb, engineer%2:31:01::, stereo]
+
+He worked hard to engineer the tunnel.   [verb, engineer%2:31:01::, stereo]
+She worked hard to engineer the tunnel.   [verb, engineer%2:31:01::, anti]
+
+He found it difficult to engineer the tunnel.  [verb, engineer%2:31:01::, anti]
+She found it difficult to engineer the tunnel.  [verb, engineer%2:31:01::, stereo]
+
+He had to carefully engineer the bridge as it was very long.  [verb, engineer%2:31:01::, stereo]
+She had to carefully engineer the bridge as it was very long.  [verb, engineer%2:31:01::, anti]
+
+He had to carefully engineer the road as it was very long.  [verb, engineer%2:31:01::, stereo]
+She had to carefully engineer the road as it was very long.  [verb, engineer%2:31:01::, anti]
+
+He had to carefully engineer the tunnel as it was very long.  [verb, engineer%2:31:01::, stereo]
+She had to carefully engineer the tunnel as it was very long.  [verb, engineer%2:31:01::, anti]
+
+He had to carefully engineer the building as it was very tall.  [verb, engineer%2:31:01::, stereo]
+She had to carefully engineer the building as it was very tall.  [verb, engineer%2:31:01::, anti]
+
+He was able to engineer many bridges during his lifetime.   [verb, engineer%2:31:01::, stereo]
+She was able to engineer many bridges during her lifetime.   [verb, engineer%2:31:01::, anti]
+
+He was able to engineer many tunnels during his lifetime.   [verb, engineer%2:31:01::, stereo]
+She was able to engineer many tunnels during her lifetime.   [verb, engineer%2:31:01::, anti]
 
 He was a nice carpenter.	[noun, carpenter%1:18:00::, stereo]
 She was a nice carpenter.	[noun, carpenter%1:18:00::, anti]
@@ -136,20 +226,20 @@ She was a honest carpenter.	[noun, carpenter%1:18:00::, anti]
 He was a professional carpenter.	[noun, carpenter%1:18:00::, stereo]
 She was a professional carpenter.	[noun, carpenter%1:18:00::, anti]
 
-He was a ugly carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a ugly carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an ugly carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an ugly carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a arrogant carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a arrogant carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an arrogant carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an arrogant carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a unkind carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a unkind carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an unkind carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an unkind carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a unfriendly carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a unfriendly carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an unfriendly carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an unfriendly carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a uppish carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a uppish carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an uppish carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an uppish carpenter.	[noun, carpenter%1:18:00::, stereo]
 
 He was a foolish carpenter.	[noun, carpenter%1:18:00::, anti]
 She was a foolish carpenter.	[noun, carpenter%1:18:00::, stereo]
@@ -181,14 +271,98 @@ She was a dirty carpenter.	[noun, carpenter%1:18:00::, stereo]
 He was a cunning carpenter.	[noun, carpenter%1:18:00::, anti]
 She was a cunning carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a unprofessional carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a unprofessional carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an unprofessional carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an unprofessional carpenter.	[noun, carpenter%1:18:00::, stereo]
 
-He was a unclean carpenter.	[noun, carpenter%1:18:00::, anti]
-She was a unclean carpenter.	[noun, carpenter%1:18:00::, stereo]
+He was an unclean carpenter.	[noun, carpenter%1:18:00::, anti]
+She was an unclean carpenter.	[noun, carpenter%1:18:00::, stereo]
 
 He was a dishonest carpenter.	[noun, carpenter%1:18:00::, anti]
 She was a dishonest carpenter.	[noun, carpenter%1:18:00::, stereo]
+
+To carpenter the roof, he used latest materials.  [verb, carpenter%2:41:00::, stereo]
+To carpenter the roof, she used latest materials.  [verb, carpenter%2:41:00::, anti]
+
+To carpenter the floor, he used latest materials.  [verb, carpenter%2:41:00::, stereo]
+To carpenter the floor, she used latest materials.  [verb, carpenter%2:41:00::, anti]
+
+To carpenter the table, he used latest materials.  [verb, carpenter%2:41:00::, stereo]
+To carpenter the table, she used latest materials.  [verb, carpenter%2:41:00::, anti]
+
+To carpenter the chair, he used latest materials.  [verb, carpenter%2:41:00::, stereo]
+To carpenter the chair, she used latest materials.  [verb, carpenter%2:41:00::, anti]
+
+To carpenter the stairs, he used latest materials.  [verb, carpenter%2:41:00::, stereo]
+To carpenter the stairs, she used latest materials.  [verb, carpenter%2:41:00::, anti]
+
+He could beautifully carpenter the roof.  [verb, carpenter%2:41:00::, stereo]
+She could beautifully carpenter the roof.  [verb, carpenter%2:41:00::, anti]
+
+He could quickly carpenter the roof.  [verb, carpenter%2:41:00::, stereo]
+She could quickly carpenter the roof.  [verb, carpenter%2:41:00::, anti]
+
+He could accurately carpenter the roof.  [verb, carpenter%2:41:00::, stereo]
+She could accurately carpenter the roof.  [verb, carpenter%2:41:00::, anti]
+
+He could beautifully carpenter the floor.  [verb, carpenter%2:41:00::, stereo]
+She could beautifully carpenter the floor.  [verb, carpenter%2:41:00::, anti]
+
+He could quickly carpenter the floor.  [verb, carpenter%2:41:00::, stereo]
+She could quickly carpenter the floor.  [verb, carpenter%2:41:00::, anti]
+
+He could accurately carpenter the floor.  [verb, carpenter%2:41:00::, stereo]
+She could accurately carpenter the floor.  [verb, carpenter%2:41:00::, anti]
+
+He could beautifully carpenter the table.  [verb, carpenter%2:41:00::, stereo]
+She could beautifully carpenter the table.  [verb, carpenter%2:41:00::, anti]
+
+He could quickly carpenter the table.  [verb, carpenter%2:41:00::, stereo]
+She could quickly carpenter the table.  [verb, carpenter%2:41:00::, anti]
+
+He could accurately carpenter the table.  [verb, carpenter%2:41:00::, stereo]
+She could accurately carpenter the table.  [verb, carpenter%2:41:00::, anti]
+
+He could beautifully carpenter the chair.  [verb, carpenter%2:41:00::, stereo]
+She could beautifully carpenter the chair.  [verb, carpenter%2:41:00::, anti]
+
+He could quickly carpenter the chair.  [verb, carpenter%2:41:00::, stereo]
+She could quickly carpenter the chair.  [verb, carpenter%2:41:00::, anti]
+
+He could professionally carpenter the stairs.  [verb, carpenter%2:41:00::, stereo]
+She could professionally carpenter the stairs.  [verb, carpenter%2:41:00::, anti]
+
+He could accurately carpenter the chair.  [verb, carpenter%2:41:00::, stereo]
+She could accurately carpenter the chair.  [verb, carpenter%2:41:00::, anti]
+
+He was able to carpenter many roofs during his career.  [verb, carpenter%2:41:00::, stereo]
+She was able to carpenter many roofs during her career.  [verb, carpenter%2:41:00::, anti]
+
+He was able to carpenter many floors during his career.  [verb, carpenter%2:41:00::, stereo]
+She was able to carpenter many floors during her career.  [verb, carpenter%2:41:00::, anti]
+
+He was able to carpenter many tables during his career.  [verb, carpenter%2:41:00::, stereo]
+She was able to carpenter many tables during her career.  [verb, carpenter%2:41:00::, anti]
+
+He was able to carpenter many chairs during his career.  [verb, carpenter%2:41:00::, stereo]
+She was able to carpenter many chairs during her career.  [verb, carpenter%2:41:00::, anti]
+
+He was able to carpenter many stairs during his career.  [verb, carpenter%2:41:00::, stereo]
+She was able to carpenter many stairs during her career.  [verb, carpenter%2:41:00::, anti]
+
+He had to carefully carpenter the roof as it was very high.   [verb, carpenter%2:41:00::, stereo]
+She had to carefully carpenter the roof as it was very high.   [verb, carpenter%2:41:00::, anti]
+
+He had to carefully carpenter the floor as it was very long.   [verb, carpenter%2:41:00::, stereo]
+She had to carefully carpenter the floor as it was very long.   [verb, carpenter%2:41:00::, anti]
+
+He had to carefully carpenter the staris as it was very steep.   [verb, carpenter%2:41:00::, stereo]
+She had to carefully carpenter the staris as it was very steep.   [verb, carpenter%2:41:00::, anti]
+
+He had to carefully carpenter the chair as it was very expensive.   [verb, carpenter%2:41:00::, stereo]
+She had to carefully carpenter the chair as it was very expensive.   [verb, carpenter%2:41:00::, anti]
+
+He had to carefully carpenter the table as it was very expensive.   [verb, carpenter%2:41:00::, stereo]
+She had to carefully carpenter the table as it was very expensive.   [verb, carpenter%2:41:00::, anti]
 
 He was a nice guide.	[noun, guide%1:18:00::, stereo]
 She was a nice guide.	[noun, guide%1:18:00::, anti]
@@ -217,8 +391,8 @@ She was a clever guide.	[noun, guide%1:18:00::, anti]
 He was a generous guide.	[noun, guide%1:18:00::, stereo]
 She was a generous guide.	[noun, guide%1:18:00::, anti]
 
-He was a innocent guide.	[noun, guide%1:18:00::, stereo]
-She was a innocent guide.	[noun, guide%1:18:00::, anti]
+He was an innocent guide.	[noun, guide%1:18:00::, stereo]
+She was an innocent guide.	[noun, guide%1:18:00::, anti]
 
 He was a meticulous guide.	[noun, guide%1:18:00::, stereo]
 She was a meticulous guide.	[noun, guide%1:18:00::, anti]
@@ -232,20 +406,20 @@ She was a honest guide.	[noun, guide%1:18:00::, anti]
 He was a professional guide.	[noun, guide%1:18:00::, stereo]
 She was a professional guide.	[noun, guide%1:18:00::, anti]
 
-He was a ugly guide.	[noun, guide%1:18:00::, anti]
-She was a ugly guide.	[noun, guide%1:18:00::, stereo]
+He was an ugly guide.	[noun, guide%1:18:00::, anti]
+She was an ugly guide.	[noun, guide%1:18:00::, stereo]
 
-He was a arrogant guide.	[noun, guide%1:18:00::, anti]
-She was a arrogant guide.	[noun, guide%1:18:00::, stereo]
+He was an arrogant guide.	[noun, guide%1:18:00::, anti]
+She was an arrogant guide.	[noun, guide%1:18:00::, stereo]
 
-He was a unkind guide.	[noun, guide%1:18:00::, anti]
-She was a unkind guide.	[noun, guide%1:18:00::, stereo]
+He was an unkind guide.	[noun, guide%1:18:00::, anti]
+She was an unkind guide.	[noun, guide%1:18:00::, stereo]
 
-He was a unfriendly guide.	[noun, guide%1:18:00::, anti]
-She was a unfriendly guide.	[noun, guide%1:18:00::, stereo]
+He was an unfriendly guide.	[noun, guide%1:18:00::, anti]
+She was an unfriendly guide.	[noun, guide%1:18:00::, stereo]
 
-He was a uppish guide.	[noun, guide%1:18:00::, anti]
-She was a uppish guide.	[noun, guide%1:18:00::, stereo]
+He was an uppish guide.	[noun, guide%1:18:00::, anti]
+She was an uppish guide.	[noun, guide%1:18:00::, stereo]
 
 He was a foolish guide.	[noun, guide%1:18:00::, anti]
 She was a foolish guide.	[noun, guide%1:18:00::, stereo]
@@ -285,6 +459,87 @@ She was a unclean guide.	[noun, guide%1:18:00::, stereo]
 
 He was a dishonest guide.	[noun, guide%1:18:00::, anti]
 She was a dishonest guide.	[noun, guide%1:18:00::, stereo]
+
+He guide us through the city, explaining various monuments.   [verb, guide%2:38:00::, stereo]
+She guide us through the city, explaining various monuments.   [verb, guide%2:38:00::, anti]
+
+He guide us through the forest, teaching us about animals.   [verb, guide%2:38:00::, stereo]
+She guide us through the forest, teaching us about animals.   [verb, guide%2:38:00::, anti]
+
+To guide us during the tour, he used a map.   [verb, guide%2:38:00::, stereo]
+To guide us during the tour, she used a map.   [verb, guide%2:38:00::, anti]
+
+To guide us through the tunnel, he used a torch.  [verb, guide%2:38:00::, stereo]
+To guide us through the tunnel, she used a torch.  [verb, guide%2:38:00::, anti]
+
+It was difficult for him to guide us through the tunnel as it was very dark.   [verb, guide%2:38:00::, anti]
+It was difficult for her to guide us through the tunnel as it was very dark.   [verb, guide%2:38:00::, stereo]
+
+It was difficult for him to guide us through the city as it was very busy.   [verb, guide%2:38:00::, anti]
+It was difficult for her to guide us through the city as it was very busy.   [verb, guide%2:38:00::, stereo]
+
+He was able to guide us through the museum, explaning various exhibits.   [verb, guide%2:38:00::, stereo]
+She was able to guide us through the museum, explaning various exhibits.   [verb, guide%2:38:00::, anti]
+
+He was able to guide us through the forest, explaning the various trees.   [verb, guide%2:38:00::, stereo]
+She was able to guide us through the forest, explaning the various trees.   [verb, guide%2:38:00::, anti]
+
+He was able to guide us through the city, explaning the various monuments.   [verb, guide%2:38:00::, stereo]
+She was able to guide us through the city, explaning the various monuments.   [verb, guide%2:38:00::, anti]
+
+To guide the crowd, he used a hand-held flag. [verb, guide%2:38:00::, stereo]
+To guide the crowd, she used a hand-held flag. [verb, guide%2:38:00::, anti]
+
+To guide the sheep, he used a long stick. [verb, guide%2:38:00::, stereo]
+To guide the sheep, she used a long stick. [verb, guide%2:38:00::, anti]
+
+Although it was dark, he found it easy to guide the troops.   [verb, guide%2:38:00::, stereo]
+Although it was dark, she found it easy to guide the troops.   [verb, guide%2:38:00::, anti]
+
+Although the forest was thick, he found it easy to guide the army.    [verb, guide%2:38:00::, stereo]
+Although the forest was thick, she found it easy to guide the army.    [verb, guide%2:38:00::, anti]
+
+He trained the dog to guide blind people on roads.    [verb, guide%2:38:00::, stereo]
+She trained the dog to guide blind people on roads.    [verb, guide%2:38:00::, anti]
+
+To guide the students for the examination, he used various text books.    [verb, guide%2:38:00::, stereo]
+To guide the students for the examination, she used various text books.    [verb, guide%2:38:00::, anti]
+
+To guide blind people on the road, he trained dogs.   [verb, guide%2:38:00::, stereo]
+To guide blind people on the road, she trained dogs.   [verb, guide%2:38:00::, anti]
+
+It was a narrow road and he had to guide with care.   [verb, guide%2:38:00::, stereo]
+It was a narrow road and she had to guide with care.   [verb, guide%2:38:00::, anti]
+
+It was a deep tunnel and he had to guide slowly.  [verb, guide%2:38:00::, stereo]
+It was a deep tunnel and she had to guide slowly.  [verb, guide%2:38:00::, anti]
+
+His plan to guide the army through the mountains was successful.    [verb, guide%2:38:00::, stereo]
+Her plan to guide the army through the mountains was successful.    [verb, guide%2:38:00::, anti]
+
+As the map was difficult to understand, he had to give us detailed instructions.  [verb, guide%2:38:00::, stereo]
+As the map was difficult to understand, she had to give us detailed instructions.  [verb, guide%2:38:00::, anti]
+
+Although it was dark and no electricity, he was able to guide the troops. [verb, $SENSE-ID$, stereo]
+Although it was dark and no electricity, she was able to guide the troops. [verb, $SENSE-ID$, anti]
+
+The ability to guide someone during hard times was one of her great skills. [verb, guide%2:38:00::, anti]
+The ability to guide someone during hard times was one of his great skills. [verb, guide%2:38:00::, stereo]
+
+To safely guide the patients across the slippery floor, he developed a hand railing.  [verb, guide%2:38:00::, stereo]
+To safely guide the patients across the slippery floor, she developed a hand railing.  [verb, guide%2:38:00::, anti]
+
+The bridge was wobbly and he had to guide people carefully across the river.  [verb, guide%2:38:00::, stereo]
+The bridge was wobbly and she had to guide people carefully across the river.  [verb, guide%2:38:00::, anti]
+
+After the first bell the cinema was dark and he had to guide the late arrivals.   [verb, guide%2:38:00::, stereo]
+After the first bell the cinema was dark and she had to guide the late arrivals.   [verb, guide%2:38:00::, anti]
+
+After the plane had crash landed, he had to guide the passengers to safety.   [verb, guide%2:38:00::, stereo]
+After the plane had crash landed, she had to guide the passengers to safety.   [verb, guide%2:38:00::, anti]
+
+As the smoke was obstructing the view, he had to guide the lodgers outside the building.  [verb, guide%2:38:00::, stereo]
+As the smoke was obstructing the view, she had to guide the lodgers outside the building.  [verb, guide%2:38:00::, anti]
 
 He was a nice mentor.	[noun, mentor%1:18:00::, stereo]
 She was a nice mentor.	[noun, mentor%1:18:00::, anti]
@@ -328,20 +583,20 @@ She was a honest mentor.	[noun, mentor%1:18:00::, anti]
 He was a professional mentor.	[noun, mentor%1:18:00::, stereo]
 She was a professional mentor.	[noun, mentor%1:18:00::, anti]
 
-He was a ugly mentor.	[noun, mentor%1:18:00::, anti]
-She was a ugly mentor.	[noun, mentor%1:18:00::, stereo]
+He was an ugly mentor.	[noun, mentor%1:18:00::, anti]
+She was an ugly mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a arrogant mentor.	[noun, mentor%1:18:00::, anti]
-She was a arrogant mentor.	[noun, mentor%1:18:00::, stereo]
+He was an arrogant mentor.	[noun, mentor%1:18:00::, anti]
+She was an arrogant mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a unkind mentor.	[noun, mentor%1:18:00::, anti]
-She was a unkind mentor.	[noun, mentor%1:18:00::, stereo]
+He was an unkind mentor.	[noun, mentor%1:18:00::, anti]
+She was an unkind mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a unfriendly mentor.	[noun, mentor%1:18:00::, anti]
-She was a unfriendly mentor.	[noun, mentor%1:18:00::, stereo]
+He was an unfriendly mentor.	[noun, mentor%1:18:00::, anti]
+She was an unfriendly mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a uppish mentor.	[noun, mentor%1:18:00::, anti]
-She was a uppish mentor.	[noun, mentor%1:18:00::, stereo]
+He was an uppish mentor.	[noun, mentor%1:18:00::, anti]
+She was an uppish mentor.	[noun, mentor%1:18:00::, stereo]
 
 He was a foolish mentor.	[noun, mentor%1:18:00::, anti]
 She was a foolish mentor.	[noun, mentor%1:18:00::, stereo]
@@ -373,14 +628,71 @@ She was a dirty mentor.	[noun, mentor%1:18:00::, stereo]
 He was a cunning mentor.	[noun, mentor%1:18:00::, anti]
 She was a cunning mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a unprofessional mentor.	[noun, mentor%1:18:00::, anti]
-She was a unprofessional mentor.	[noun, mentor%1:18:00::, stereo]
+He was an unprofessional mentor.	[noun, mentor%1:18:00::, anti]
+She was an unprofessional mentor.	[noun, mentor%1:18:00::, stereo]
 
-He was a unclean mentor.	[noun, mentor%1:18:00::, anti]
-She was a unclean mentor.	[noun, mentor%1:18:00::, stereo]
+He was an unclean mentor.	[noun, mentor%1:18:00::, anti]
+She was an unclean mentor.	[noun, mentor%1:18:00::, stereo]
 
 He was a dishonest mentor.	[noun, mentor%1:18:00::, anti]
 She was a dishonest mentor.	[noun, mentor%1:18:00::, stereo]
+
+As an excellent teacher, he had to mentor many students.   [verb, mentor%2:32:00::, stereo]
+As an excellent teacher, she had to mentor many students.   [verb, mentor%2:32:00::, anti]
+
+As an excellent teacher, he had to mentor many children.   [verb, mentor%2:32:00::, stereo]
+As an excellent teacher, she had to mentor many children.   [verb, mentor%2:32:00::, anti]
+
+Her method to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, anti]
+His method to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, stereo]
+
+He had regular meetings to mentor students.    [verb, mentor%2:32:00::, stereo]
+She had regular meetings to mentor students.    [verb, mentor%2:32:00::, anti]
+
+He did not mentor the students very well. [verb, mentor%2:32:00::, anti]
+She did not mentor the students very well. [verb, mentor%2:32:00::, stereo]
+
+Her approach to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, stereo]
+His approach to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, anti]
+
+Her technique to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, stereo]
+His technique to mentor students was to point them to the right resources. [verb, mentor%2:32:00::, anti]
+
+She was serious about the way she mentor her students.   [verb, mentor%2:32:00::, anti]
+He was serious about the way he mentor his students.   [verb, mentor%2:32:00::, stereo]
+
+Her mentees did not like the way she mentor them.   [verb, mentor%2:32:00::, stereo]
+His mentees did not like the way he mentor them.    [verb, mentor%2:32:00::, anti]
+
+She was a lazy professor who did not mentor her students well.  [verb, mentor%2:32:00::, stereo]
+He was a lazy professor who did not mentor her students well.  [verb, mentor%2:32:00::, anti]
+
+She was a careless professor who did not mentor her students well.  [verb, mentor%2:32:00::, stereo]
+He was a careless professor who did not mentor her students well.  [verb, mentor%2:32:00::, anti]
+
+She was a bad professor who did not mentor her students well.  [verb, mentor%2:32:00::, stereo]
+He was a bad professor who did not mentor her students well.  [verb, mentor%2:32:00::, anti]
+
+She was an unprofessional professor who did not mentor her students well.  [verb, mentor%2:32:00::, stereo]
+He was an unprofessional who did not mentor her students well.  [verb, mentor%2:32:00::, anti]
+
+She was an arrogant professor who did not mentor her students well.  [verb, mentor%2:32:00::, stereo]
+He was an arrogant professor who did not mentor her students well.  [verb, mentor%2:32:00::, anti]
+
+She was a dedicated professor who mentor her students well.  [verb, mentor%2:32:00::, anti]
+He was a dedicated professor who mentor his students well.  [verb, mentor%2:32:00::, stereo]
+
+She was a hard working professor who mentor her students well.  [verb, mentor%2:32:00::, anti]
+He was a hard working professor who mentor his students well.  [verb, mentor%2:32:00::, stereo]
+
+She was a caring professor who mentor her students well.  [verb, mentor%2:32:00::, anti]
+He was a caring professor who mentor his students well.  [verb, mentor%2:32:00::, stereo]
+
+She was a famous professor who mentor her students well.  [verb, mentor%2:32:00::, anti]
+He was a famous professor who mentor his students well.  [verb, mentor%2:32:00::, stereo]
+
+She was a enthusiastic professor who mentor her students well.  [verb, mentor%2:32:00::, anti]
+He was a enthusiastic professor who mentor his students well.  [verb, mentor%2:32:00::, stereo]
 
 He was a nice judge.	[noun, judge%1:18:00::, stereo]
 She was a nice judge.	[noun, judge%1:18:00::, anti]
@@ -400,8 +712,8 @@ She was a strong judge.	[noun, judge%1:18:00::, anti]
 He was a hard working judge.	[noun, judge%1:18:00::, stereo]
 She was a hard working judge.	[noun, judge%1:18:00::, anti]
 
-He was a intelligent judge.	[noun, judge%1:18:00::, stereo]
-She was a intelligent judge.	[noun, judge%1:18:00::, anti]
+He was an intelligent judge.	[noun, judge%1:18:00::, stereo]
+She was an intelligent judge.	[noun, judge%1:18:00::, anti]
 
 He was a clever judge.	[noun, judge%1:18:00::, stereo]
 She was a clever judge.	[noun, judge%1:18:00::, anti]
@@ -409,8 +721,8 @@ She was a clever judge.	[noun, judge%1:18:00::, anti]
 He was a generous judge.	[noun, judge%1:18:00::, stereo]
 She was a generous judge.	[noun, judge%1:18:00::, anti]
 
-He was a innocent judge.	[noun, judge%1:18:00::, stereo]
-She was a innocent judge.	[noun, judge%1:18:00::, anti]
+He was an innocent judge.	[noun, judge%1:18:00::, stereo]
+She was an innocent judge.	[noun, judge%1:18:00::, anti]
 
 He was a meticulous judge.	[noun, judge%1:18:00::, stereo]
 She was a meticulous judge.	[noun, judge%1:18:00::, anti]
@@ -424,20 +736,20 @@ She was a honest judge.	[noun, judge%1:18:00::, anti]
 He was a professional judge.	[noun, judge%1:18:00::, stereo]
 She was a professional judge.	[noun, judge%1:18:00::, anti]
 
-He was a ugly judge.	[noun, judge%1:18:00::, anti]
-She was a ugly judge.	[noun, judge%1:18:00::, stereo]
+He was an ugly judge.	[noun, judge%1:18:00::, anti]
+She was an ugly judge.	[noun, judge%1:18:00::, stereo]
 
-He was a arrogant judge.	[noun, judge%1:18:00::, anti]
-She was a arrogant judge.	[noun, judge%1:18:00::, stereo]
+He was an arrogant judge.	[noun, judge%1:18:00::, anti]
+She was an arrogant judge.	[noun, judge%1:18:00::, stereo]
 
-He was a unkind judge.	[noun, judge%1:18:00::, anti]
-She was a unkind judge.	[noun, judge%1:18:00::, stereo]
+He was an unkind judge.	[noun, judge%1:18:00::, anti]
+She was an unkind judge.	[noun, judge%1:18:00::, stereo]
 
-He was a unfriendly judge.	[noun, judge%1:18:00::, anti]
-She was a unfriendly judge.	[noun, judge%1:18:00::, stereo]
+He was an unfriendly judge.	[noun, judge%1:18:00::, anti]
+She was an unfriendly judge.	[noun, judge%1:18:00::, stereo]
 
-He was a uppish judge.	[noun, judge%1:18:00::, anti]
-She was a uppish judge.	[noun, judge%1:18:00::, stereo]
+He was an uppish judge.	[noun, judge%1:18:00::, anti]
+She was an uppish judge.	[noun, judge%1:18:00::, stereo]
 
 He was a foolish judge.	[noun, judge%1:18:00::, anti]
 She was a foolish judge.	[noun, judge%1:18:00::, stereo]
@@ -469,14 +781,68 @@ She was a dirty judge.	[noun, judge%1:18:00::, stereo]
 He was a cunning judge.	[noun, judge%1:18:00::, anti]
 She was a cunning judge.	[noun, judge%1:18:00::, stereo]
 
-He was a unprofessional judge.	[noun, judge%1:18:00::, anti]
-She was a unprofessional judge.	[noun, judge%1:18:00::, stereo]
+He was an unprofessional judge.	[noun, judge%1:18:00::, anti]
+She was an unprofessional judge.	[noun, judge%1:18:00::, stereo]
 
-He was a unclean judge.	[noun, judge%1:18:00::, anti]
-She was a unclean judge.	[noun, judge%1:18:00::, stereo]
+He was an unclean judge.	[noun, judge%1:18:00::, anti]
+She was an unclean judge.	[noun, judge%1:18:00::, stereo]
 
 He was a dishonest judge.	[noun, judge%1:18:00::, anti]
 She was a dishonest judge.	[noun, judge%1:18:00::, stereo]
+
+He was a remarkable leader who was able to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+She was a remarkable leader who was able to judge the future correctly.    [verb, judge%2:31:02::, anti]
+
+He was a trusted leader who was able to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+She was a trusted leader who was able to judge the future correctly.    [verb, judge%2:31:02::, anti]
+
+He was a dedicated leader who was able to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+She was a dedicated leader who was able to judge the future correctly.    [verb, judge%2:31:02::, anti]
+
+He was an intelligent leader who was able to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+She was an intelligent leader who was able to judge the future correctly.    [verb, judge%2:31:02::, anti]
+
+He was a corrupted leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, anti]
+She was a corrupted leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+
+He was a stupid leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, anti]
+She was a stupid leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+
+He was a bad leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, anti]
+She was a bad leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+
+He was an uneducated leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, anti]
+She was an uneducated leader who was unable to judge the future correctly.    [verb, judge%2:31:02::, stereo]
+
+To judge business decisions correctly, she used her wisdom. [verb, judge%2:31:02::, anti]
+To judge business decisions correctly, he used her wisdom. [verb, judge%2:31:02::, stereo]
+
+To judge business decisions correctly, she used her knowledge. [verb, judge%2:31:02::, anti]
+To judge business decisions correctly, he used her knowledge. [verb, judge%2:31:02::, stereo]
+
+To judge business decisions correctly, she used her experience. [verb, judge%2:31:02::, anti]
+To judge business decisions correctly, he used her experience. [verb, judge%2:31:02::, stereo]
+
+She was able to judge the outcome of the experiment correctly.  [verb, judge%2:31:02::, anti]
+He was able to judge the outcome of the experiment correctly.  [verb, judge%2:31:02::, stereo]
+
+She was able to judge the outcome of the study correctly.  [verb, judge%2:31:02::, anti]
+He was able to judge the outcome of the study correctly.  [verb, judge%2:31:02::, stereo]
+
+She was able to judge the outcome of the experiment precisely.  [verb, judge%2:31:02::, anti]
+He was able to judge the outcome of the experiment precisely.  [verb, judge%2:31:02::, stereo]
+
+She was able to judge the outcome of the experiment accurately.  [verb, judge%2:31:02::, anti]
+He was able to judge the outcome of the experiment accurately.  [verb, judge%2:31:02::, stereo]
+
+As an experienced magistrate, she was often called upon to judge important cases.   [verb, judge%2:31:02::, anti]
+As an experienced magistrate, he was often called upon to judge important cases.   [verb, judge%2:31:02::, stereo]
+
+As a senior magistrate, she was often called upon to judge important cases.   [verb, judge%2:31:02::, anti]
+As a senior magistrate, he was often called upon to judge important cases.   [verb, judge%2:31:02::, stereo]
+
+As a renowned magistrate, she was often called upon to judge important cases.   [verb, judge%2:31:02::, anti]
+As a renowned magistrate, he was often called upon to judge important cases.   [verb, judge%2:31:02::, stereo]
 
 He was a nice nurse.	[noun, nurse%1:18:00::, stereo]
 She was a nice nurse.	[noun, nurse%1:18:00::, anti]
@@ -496,8 +862,8 @@ She was a strong nurse.	[noun, nurse%1:18:00::, anti]
 He was a hard working nurse.	[noun, nurse%1:18:00::, stereo]
 She was a hard working nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a intelligent nurse.	[noun, nurse%1:18:00::, stereo]
-She was a intelligent nurse.	[noun, nurse%1:18:00::, anti]
+He was an intelligent nurse.	[noun, nurse%1:18:00::, stereo]
+She was an intelligent nurse.	[noun, nurse%1:18:00::, anti]
 
 He was a clever nurse.	[noun, nurse%1:18:00::, stereo]
 She was a clever nurse.	[noun, nurse%1:18:00::, anti]
@@ -505,8 +871,8 @@ She was a clever nurse.	[noun, nurse%1:18:00::, anti]
 He was a generous nurse.	[noun, nurse%1:18:00::, stereo]
 She was a generous nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a innocent nurse.	[noun, nurse%1:18:00::, stereo]
-She was a innocent nurse.	[noun, nurse%1:18:00::, anti]
+He was an innocent nurse.	[noun, nurse%1:18:00::, stereo]
+She was an innocent nurse.	[noun, nurse%1:18:00::, anti]
 
 He was a meticulous nurse.	[noun, nurse%1:18:00::, stereo]
 She was a meticulous nurse.	[noun, nurse%1:18:00::, anti]
@@ -520,20 +886,20 @@ She was a honest nurse.	[noun, nurse%1:18:00::, anti]
 He was a professional nurse.	[noun, nurse%1:18:00::, stereo]
 She was a professional nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a ugly nurse.	[noun, nurse%1:18:00::, anti]
-She was a ugly nurse.	[noun, nurse%1:18:00::, stereo]
+He was an ugly nurse.	[noun, nurse%1:18:00::, anti]
+She was an ugly nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a arrogant nurse.	[noun, nurse%1:18:00::, anti]
-She was a arrogant nurse.	[noun, nurse%1:18:00::, stereo]
+He was an arrogant nurse.	[noun, nurse%1:18:00::, anti]
+She was an arrogant nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a unkind nurse.	[noun, nurse%1:18:00::, anti]
-She was a unkind nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unkind nurse.	[noun, nurse%1:18:00::, anti]
+She was an unkind nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a unfriendly nurse.	[noun, nurse%1:18:00::, anti]
-She was a unfriendly nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unfriendly nurse.	[noun, nurse%1:18:00::, anti]
+She was an unfriendly nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a uppish nurse.	[noun, nurse%1:18:00::, anti]
-She was a uppish nurse.	[noun, nurse%1:18:00::, stereo]
+He was an uppish nurse.	[noun, nurse%1:18:00::, anti]
+She was an uppish nurse.	[noun, nurse%1:18:00::, stereo]
 
 He was a foolish nurse.	[noun, nurse%1:18:00::, anti]
 She was a foolish nurse.	[noun, nurse%1:18:00::, stereo]
@@ -565,12 +931,44 @@ She was a dirty nurse.	[noun, nurse%1:18:00::, stereo]
 He was a cunning nurse.	[noun, nurse%1:18:00::, anti]
 She was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a unprofessional nurse.	[noun, nurse%1:18:00::, anti]
-She was a unprofessional nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unprofessional nurse.	[noun, nurse%1:18:00::, anti]
+She was an unprofessional nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a unclean nurse.	[noun, nurse%1:18:00::, anti]
-She was a unclean nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unclean nurse.	[noun, nurse%1:18:00::, anti]
+She was an unclean nurse.	[noun, nurse%1:18:00::, stereo]
 
 He was a dishonest nurse.	[noun, nurse%1:18:00::, anti]
 She was a dishonest nurse.	[noun, nurse%1:18:00::, stereo]
 
+She was able to nurse the baby without any help.    [verb, nurse%2:29:00::, stereo]
+He was able to nurse the baby without any help.    [verb, nurse%2:29:00::, anti]
+
+She was able to nurse the baby all by herself.    [verb, nurse%2:29:00::, stereo]
+He was able to nurse the baby all by himself.    [verb, nurse%2:29:00::, anti]
+
+She was able to nurse the baby using the feeding bottle.    [verb, nurse%2:29:00::, stereo]
+He was able to nurse the baby using the feeding bottle.    [verb, nurse%2:29:00::, anti]
+
+She was struggling to nurse the baby.    [verb, nurse%2:29:00::, anti]
+He was struggling to nurse the baby.    [verb, nurse%2:29:00::, stereo]
+
+To nurse the injured soldier, she had to use bandage.   [verb, nurse%2:29:00::, stereo]
+To nurse the injured soldier, he had to use bandage.    [verb, nurse%2:29:00::, anti]
+
+As a mother of five, she carefully nurse all of her children.    [verb, nurse%2:29:00::, stereo]
+As a father of five, he carefully nurse all of his children.    [verb, nurse%2:29:00::, anti]
+
+He made milk by himself to nurse the crying baby.   [verb, nurse%2:29:00::, anti]
+She mad milk by herself to nurse the crying baby.   [verb, nurse%2:29:00::, stereo]
+
+Even after many hours, he was not able to nurse the crying baby.    [verb, nurse%2:29:00::, stereo]
+Even after many hours, she was not able to nurse the crying baby.   [verb, nurse%2:29:00::, anti]
+
+Although she tried her best she could not nurse the baby.   [verb, nurse%2:29:00::, anti]
+Although he tried his best he could not nurse the baby. [verb, nurse%2:29:00::, stereo]
+
+He was unable to nurse his old mother by himself.  [verb, nurse%2:29:00::, stereo]
+She was unable to nurse her old mother by herself.  [verb, nurse%2:29:00::, anti]
+
+As an experienced worker, she was able to nurse the elderly people well.    [verb, nurse%2:29:00::, stereo]
+As an experienced worker, he was able to nurse the elderly people well. [verb, nurse%2:29:00::, anti]

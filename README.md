@@ -88,5 +88,5 @@ If an MLM assigns a higher likeihood to the male version than it does to the fem
 | ---- | --- | 
 | Nationality vs. Language | 528 |
 | Ethnicity vs. Colour | 71 |
-| Gender Bias | |
-| Total | |
+| Gender Bias | 701 |
+| Total | 1300 |

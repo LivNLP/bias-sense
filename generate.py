@@ -105,9 +105,28 @@ def gender_template():
                     inst.append(pattern)
                     count += 1
                 inst.append("")
+        
+        with open("./%s-template" % occupation) as F:
+            for line in F:
+                pattern = line.strip()
+                pattern = pattern.replace("$SENSE-ID$", verb_sense_id)
 
+                 # If we have hard coded gender in the template then we do not have a pair.
+                if pattern.find("$GENDER$") == -1: 
+                    inst.append(pattern.capitalize())
+                    count += 1
+                else:
+                    for (gender, bias) in [("he", "stereo"), ("she", "anti")]:                     
+                        txt = pattern.replace("$GENDER$", gender)
+                        txt = txt.replace("$BIAS$", bias)
+                        inst.append(txt.capitalize())
+                        count += 1
+                    inst.append("")
+        
     
     print("Total number of gender examples = {0}".format(count))
+
+    
     return inst
 
 
@@ -128,7 +147,7 @@ def main():
     #write_to_file(instances, "racial-bias.txt")
 
     instances = gender_template()
-    write_to_file(instances, "gender-bias.txt")
+    write_to_file(instances, "output")
 
 
 
