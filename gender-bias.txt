@@ -844,101 +844,101 @@ As a senior magistrate, he was often called upon to judge important cases.   [ve
 As a renowned magistrate, she was often called upon to judge important cases.   [verb, judge%2:31:02::, anti]
 As a renowned magistrate, he was often called upon to judge important cases.   [verb, judge%2:31:02::, stereo]
 
-He was a nice nurse.	[noun, nurse%1:18:00::, stereo]
-She was a nice nurse.	[noun, nurse%1:18:00::, anti]
+He was a nice nurse.	[noun, nurse%1:18:00::, anti]
+She was a nice nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a friendly nurse.	[noun, nurse%1:18:00::, stereo]
-She was a friendly nurse.	[noun, nurse%1:18:00::, anti]
+He was a friendly nurse.	[noun, nurse%1:18:00::, anti]
+She was a friendly nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a kind nurse.	[noun, nurse%1:18:00::, stereo]
-She was a kind nurse.	[noun, nurse%1:18:00::, anti]
+He was a kind nurse.	[noun, nurse%1:18:00::, anti]
+She was a kind nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a talented nurse.	[noun, nurse%1:18:00::, stereo]
-She was a talented nurse.	[noun, nurse%1:18:00::, anti]
+He was a talented nurse.	[noun, nurse%1:18:00::, anti]
+She was a talented nurse.	[noun, nurse%1:18:00::, stereo]
 
 He was a strong nurse.	[noun, nurse%1:18:00::, stereo]
 She was a strong nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a hard working nurse.	[noun, nurse%1:18:00::, stereo]
-She was a hard working nurse.	[noun, nurse%1:18:00::, anti]
+He was a hard working nurse.	[noun, nurse%1:18:00::, anti]
+She was a hard working nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was an intelligent nurse.	[noun, nurse%1:18:00::, stereo]
-She was an intelligent nurse.	[noun, nurse%1:18:00::, anti]
+He was an intelligent nurse.	[noun, nurse%1:18:00::, anti]
+She was an intelligent nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a clever nurse.	[noun, nurse%1:18:00::, stereo]
-She was a clever nurse.	[noun, nurse%1:18:00::, anti]
+He was a clever nurse.	[noun, nurse%1:18:00::, anti]
+She was a clever nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a generous nurse.	[noun, nurse%1:18:00::, stereo]
-She was a generous nurse.	[noun, nurse%1:18:00::, anti]
+He was a generous nurse.	[noun, nurse%1:18:00::, anti]
+She was a generous nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was an innocent nurse.	[noun, nurse%1:18:00::, stereo]
-She was an innocent nurse.	[noun, nurse%1:18:00::, anti]
+He was an innocent nurse.	[noun, nurse%1:18:00::, anti]
+She was an innocent nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a meticulous nurse.	[noun, nurse%1:18:00::, stereo]
-She was a meticulous nurse.	[noun, nurse%1:18:00::, anti]
+He was a meticulous nurse.	[noun, nurse%1:18:00::, anti]
+She was a meticulous nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a clean nurse.	[noun, nurse%1:18:00::, stereo]
-She was a clean nurse.	[noun, nurse%1:18:00::, anti]
+He was a clean nurse.	[noun, nurse%1:18:00::, anti]
+She was a clean nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a honest nurse.	[noun, nurse%1:18:00::, stereo]
-She was a honest nurse.	[noun, nurse%1:18:00::, anti]
+He was a honest nurse.	[noun, nurse%1:18:00::, anti]
+She was a honest nurse.	[noun, nurse%1:18:00::, stereo]
 
 He was a professional nurse.	[noun, nurse%1:18:00::, stereo]
 She was a professional nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an ugly nurse.	[noun, nurse%1:18:00::, anti]
-She was an ugly nurse.	[noun, nurse%1:18:00::, stereo]
+He was an ugly nurse.	[noun, nurse%1:18:00::, stereo]
+She was an ugly nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an arrogant nurse.	[noun, nurse%1:18:00::, anti]
-She was an arrogant nurse.	[noun, nurse%1:18:00::, stereo]
+He was an arrogant nurse.	[noun, nurse%1:18:00::, stereo]
+She was an arrogant nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an unkind nurse.	[noun, nurse%1:18:00::, anti]
-She was an unkind nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unkind nurse.	[noun, nurse%1:18:00::, stereo]
+She was an unkind nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an unfriendly nurse.	[noun, nurse%1:18:00::, anti]
-She was an unfriendly nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unfriendly nurse.	[noun, nurse%1:18:00::, stereo]
+She was an unfriendly nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an uppish nurse.	[noun, nurse%1:18:00::, anti]
-She was an uppish nurse.	[noun, nurse%1:18:00::, stereo]
+He was an uppish nurse.	[noun, nurse%1:18:00::, stereo]
+She was an uppish nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a foolish nurse.	[noun, nurse%1:18:00::, anti]
-She was a foolish nurse.	[noun, nurse%1:18:00::, stereo]
+He was a foolish nurse.	[noun, nurse%1:18:00::, stereo]
+She was a foolish nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a stupid nurse.	[noun, nurse%1:18:00::, anti]
-She was a stupid nurse.	[noun, nurse%1:18:00::, stereo]
+He was a stupid nurse.	[noun, nurse%1:18:00::, stereo]
+She was a stupid nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a cunning nurse.	[noun, nurse%1:18:00::, anti]
-She was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+He was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+She was a cunning nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a silly nurse.	[noun, nurse%1:18:00::, anti]
-She was a silly nurse.	[noun, nurse%1:18:00::, stereo]
+He was a silly nurse.	[noun, nurse%1:18:00::, stereo]
+She was a silly nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a lazy nurse.	[noun, nurse%1:18:00::, anti]
-She was a lazy nurse.	[noun, nurse%1:18:00::, stereo]
+He was a lazy nurse.	[noun, nurse%1:18:00::, stereo]
+She was a lazy nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a careless nurse.	[noun, nurse%1:18:00::, anti]
-She was a careless nurse.	[noun, nurse%1:18:00::, stereo]
+He was a careless nurse.	[noun, nurse%1:18:00::, stereo]
+She was a careless nurse.	[noun, nurse%1:18:00::, anti]
 
 He was a weak nurse.	[noun, nurse%1:18:00::, anti]
 She was a weak nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a clumsy nurse.	[noun, nurse%1:18:00::, anti]
-She was a clumsy nurse.	[noun, nurse%1:18:00::, stereo]
+He was a clumsy nurse.	[noun, nurse%1:18:00::, stereo]
+She was a clumsy nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a dirty nurse.	[noun, nurse%1:18:00::, anti]
-She was a dirty nurse.	[noun, nurse%1:18:00::, stereo]
+He was a dirty nurse.	[noun, nurse%1:18:00::, stereo]
+She was a dirty nurse.	[noun, nurse%1:18:00::, anti]
 
-He was a cunning nurse.	[noun, nurse%1:18:00::, anti]
-She was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+He was a cunning nurse.	[noun, nurse%1:18:00::, stereo]
+She was a cunning nurse.	[noun, nurse%1:18:00::, anti]
 
-He was an unprofessional nurse.	[noun, nurse%1:18:00::, anti]
-She was an unprofessional nurse.	[noun, nurse%1:18:00::, stereo]
+He was an unprofessional nurse.	[noun, nurse%1:18:00::, stereo]
+She was an unprofessional nurse.	[noun, nurse%1:18:00::, anti]
 
 He was an unclean nurse.	[noun, nurse%1:18:00::, anti]
 She was an unclean nurse.	[noun, nurse%1:18:00::, stereo]
 
-He was a dishonest nurse.	[noun, nurse%1:18:00::, anti]
-She was a dishonest nurse.	[noun, nurse%1:18:00::, stereo]
+He was a dishonest nurse.	[noun, nurse%1:18:00::, stereo]
+She was a dishonest nurse.	[noun, nurse%1:18:00::, anti]
 
 She was able to nurse the baby without any help.    [verb, nurse%2:29:00::, stereo]
 He was able to nurse the baby without any help.    [verb, nurse%2:29:00::, anti]
