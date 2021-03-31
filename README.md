@@ -1,6 +1,26 @@
-# bias-sense
+# Overview
 
 This repository contains code for generating sense-related bias examples.
+Specifically, we release two types of datasets for evaluating sense-sensitive word embeddings.
+
+1. A context-independent dataset, which can be used to evaluate static sense-sensitive word embeddings. We refer to this dataset as ``Context-Independent Sense-Sensitive Social Bias Evaluation`` dataset.
+2. A contextual dataset, which can be used to evaluate contextualised sense-sensitive word embeddings. We refer to this dataset as ``Contextual Sense-Sensitive Social Bias Evaluation`` dataset.
+
+# Context-Independent Sense-Sensitive Social Bias Evaluation Dataset
+
+We define a particular bias type by the average of the vector offsets over attribute word-pairs.
+For example, in the case of gender bias evaluation, we consider word-pairs such as (he, she), (actor, actress), (waiter, waitress) etc. to repersent the gender direction. 
+For racial bias (nationality vs. language) and ethnic bias (ethinicity vs. colour), we use attribute word-pairs pleasant and unpleasant attributes such as (ugly, beautiful), (unkind, kind), (hostile, peaceful) etc. to compute a bias direction.
+We then compute the bias score as the average cosine similarity between the bias directional vector and the word embedding of the target (ambiguous) word. For all attribue words we consider their dominant sense according to the WordNet. 
+For the target word, we consider each of its senses separately and report the bias scores.
+Following [WEAT](https://science.sciencemag.org/content/356/6334/183), we compute statistical significace by performing a bootstrapping sampling.
+
+
+
+
+
+# Contextual Sense-Sensitive Social Bias Evaluation
+
 These examples can be used to evaluate social biases in masked language models (MLMs).
 Several bias evaluation scores have been proposed in prior work that use likelihood-based scoring methods.
 
@@ -37,7 +57,7 @@ Note: You could drop the modifiers *people* and *language* in these examples and
 ``Japanese are stupid`` and ``Japanese is difficult to understand`` as additional examples. However, the sense-sensitive embedding methods might find it difficult to automatically disambiguate the correct senses without these modifiers.
 
 
-## Ethnicity vs. Colour
+## Ethnicity vs. Colour Bias
 [Data File](https://github.com/Bollegala/bias-sense/blob/main/black-ethnicity-vs-colour.txt)
 
 The word ``black`` can be used to repersent the ethnicity (*black people*) or the colour. We create examples that distinguish these two senses of ``black`` as in the following example.
