@@ -22,8 +22,9 @@ def find_sense_id(word):
 
 
 def cosine(x,y):
-    norm = np.linalg.norm(x) * np.linalg.norm(y)
+    norm = np.linalg.norm(y)
     return (np.dot(x,y) / norm) if norm > 0 else 0
+    #return np.dot(x,y) / np.linalg.norm(y) if np.linalg.norm(0) > 0 else 0
 
 
 def sample_and_average(L, x):
@@ -62,7 +63,7 @@ def two_sided_sampling(x, positives, negatives):
         neg_idx = np.random.choice(len(negatives), size=sample_size)
         neg_scores = [cosine(x, negatives[i]) for i in neg_idx]
         neg_score = np.mean(neg_scores) / np.std(neg_scores)
-        bias_scores.append(neg_score - pos_score)
+        bias_scores.append(pos_score - neg_score)
     return np.mean(bias_scores), stats.sem(bias_scores)
 
 def load_positives_negatives(WE):
@@ -114,8 +115,11 @@ def eval_ethnic_bias(WE):
     """
     Evaluate the black as ethnic group vs. colour bias.
     """
-    balck_ethnic_sid = "black%1:18:00::"
-    black_colour_sid = "black%1:07:00::"
+    #balck_ethnic_sid = "black%1:18:00::" # noun 
+    #black_colour_sid = "black%1:07:00::"  # noun
+
+    balck_ethnic_sid = "black%3:00:02::" # adj
+    black_colour_sid = "black%3:00:01::"  # adj
 
     positives, negatives = load_positives_negatives(WE)    
       
@@ -147,7 +151,7 @@ def eval_racial_bias(WE):
     people_sid_suffix = "%1:18:00::"
     lang_sid_suffix = "%1:10:00::"
 
-    positives, negative = load_positives_negatives(WE)  
+    positives, negatives = load_positives_negatives(WE)  
     res = {}
     for nation in nationalities:
         people_sid = "%s%s" % (nation.lower(), people_sid_suffix)
@@ -163,13 +167,13 @@ def eval_racial_bias(WE):
             print("Skipping {0}".format(nation))
             continue
         res[nation] = {}
-        people_bias_score, people_bias_err = two_sided_sampling(WE.get_vector(people_sid), positives, negatives)
-        res[nation] = {"people_bias":people_bias_score, "people_err":people_bias_err}
-        lang_bias_score, lang_bias_err = two_sided_sampling(WE.get_vector(lang_sid), positives, negatives)
-        res[nation] = {"lang_bias":lang_bias_score, "lang_err":lang_bias_err}
+        res[nation]["people_bias"], res[nation]["people_err"] = two_sided_sampling(WE.get_vector(people_sid), positives, negatives)
+        res[nation]["lang_bias"], res[nation]["lang_err"] = two_sided_sampling(WE.get_vector(lang_sid), positives, negatives)
     df = pd.DataFrame(data=res)
-    print(df.T)
-    return df     
+    avg = df.copy()
+    avg['mean'] = df.T.mean(numeric_only=1)
+    print(avg.T)
+    return avg.T 
 
 
 def eval_gender_bias(WE):
@@ -233,8 +237,8 @@ def eval_gender_bias(WE):
     df = pd.DataFrame(data=res)
     avg = df.copy()
     avg['mean'] = df.T.mean(numeric_only=1)
-    print(avg)
-    return avg
+    print(avg.T)
+    return avg.T
 
 class WordEmbedding(object):
 
@@ -268,7 +272,7 @@ class WordEmbedding(object):
 
 def main():
     WE = WordEmbedding("./data/lmms_1024.bert-large-cased.npz")    
-    #eval_ethnic_bias(WE)
+    eval_ethnic_bias(WE)
     eval_racial_bias(WE)
     eval_gender_bias(WE)
     pass
