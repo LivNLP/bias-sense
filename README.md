@@ -15,7 +15,7 @@ We then compute the bias score as the average cosine similarity between the bias
 For the target word, we consider each of its senses separately and report the bias scores.
 Following [WEAT](https://science.sciencemag.org/content/356/6334/183), we compute statistical significace by performing a bootstrapping sampling.
 
-
+We use the following sources to find [positive](https://grammar.yourdictionary.com/parts-of-speech/adjectives/list-of-positive-adjectives.html) and [negative](https://www.clarkandmiller.com/negative-personality-adjectives/) attribute words.
 
 
 
