@@ -108,6 +108,9 @@ def load_positives_negatives(WE):
                 continue
             negatives.append(WE.get_vector(adj_sid))
     print("Total number of negative adjectives =", len(negatives))
+    t = min(len(positives), len(negatives))
+    positives = positives[:t]
+    negatives = negatives[:t]
     return positives, negatives
 
 
@@ -171,9 +174,9 @@ def eval_racial_bias(WE):
         res[nation]["lang_bias"], res[nation]["lang_err"] = two_sided_sampling(WE.get_vector(lang_sid), positives, negatives)
     df = pd.DataFrame(data=res)
     avg = df.copy()
-    avg['mean'] = df.T.mean(numeric_only=1)
+    avg['mean'] = df.T.abs().mean(numeric_only=1)
     print(avg.T)
-    return avg.T 
+    return avg.T                                 
 
 
 def eval_gender_bias(WE):
@@ -236,7 +239,7 @@ def eval_gender_bias(WE):
         pass
     df = pd.DataFrame(data=res)
     avg = df.copy()
-    avg['mean'] = df.T.mean(numeric_only=1)
+    avg['mean'] = df.T.abs().mean(numeric_only=1)
     print(avg.T)
     return avg.T
 
@@ -278,12 +281,14 @@ def main():
     pass
 
 def debug():
-    L = np.array([[1,2],[3,4], [5,6]])
-    for i in range(10):
-        idx = np.random.choice(len(L), size=2, replace=False)
-        print(L[idx,:])
-        #print(L[np.random.choice(range(3),size=2)])
-        #print(random.choice(L, 2))
+    h = {}
+    h["david"] = {"maths":-70, "english":80}
+    h["simon"] = {"maths":80, "english":-90}
+    df = pd.DataFrame(h)
+    avg = df.copy()
+    avg["mean"] = df.T.abs().mean()
+    print(avg.T)
+    
    
 
 if __name__ == "__main__":
