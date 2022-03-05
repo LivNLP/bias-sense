@@ -174,7 +174,7 @@ def run_test(config, sense_emb):
 
 
 def eval_weat(sense_emb, output):
-	config = json.load(open('data/weat-test.json'))
+	config = json.load(open('data/weat.json'))
 	with open(output, 'w') as fw:
 			for name_of_test, test_config in config['tests'].items():
 				score, err  = run_test(test_config, sense_emb)
