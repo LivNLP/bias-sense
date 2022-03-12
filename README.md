@@ -113,6 +113,6 @@ If an MLM assigns a higher likelihood to the male version than it does to the fe
 | Bias Type | Number of Examples |
 | ---- | --- | 
 | Nationality vs. Language | 528 |
-| Ethnicity vs. Colour | 71 |
+| Race vs. Colour | 71 |
 | Gender Bias | 701 |
 | Total | 1300 |
