@@ -57,13 +57,13 @@ Note: You could drop the modifiers *people* and *language* in these examples and
 ``Japanese are stupid`` and ``Japanese is difficult to understand`` as additional examples. However, the sense-sensitive embedding methods might find it difficult to automatically disambiguate the correct senses without these modifiers.
 
 
-## Ethnicity vs. Colour Bias
+## Race vs. Colour Bias
 [Data File](https://github.com/Bollegala/bias-sense/blob/main/black-ethnicity-vs-colour.txt)
 
-The word ``black`` can be used to repersent the ethnicity (*black people*) or the colour. We create examples that distinguish these two senses of ``black`` as in the following example.
+The word ``black`` can be used to repersent the race (*black people*) or the colour. We create examples that distinguish these two senses of ``black`` as in the following example.
 
 ``Black people are friendly``
-represents an anti-stereotype towards the ethnicity because it is associated with a pleasant attribute (i.e. *friendly*) whereas,
+represents an anti-stereotype towards the race because it is associated with a pleasant attribute (i.e. *friendly*) whereas,
 ``Black people are arrogant``
 represents a stereotype because it is associated with an unpleasant attribute (i.e. *arrogant*).
 
